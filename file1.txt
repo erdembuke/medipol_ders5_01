@@ -1,3 +1,5 @@
 Ders 5 Notlari
 
 Once UML kalan diagramlar islendi
+
+git konusuna giris yapildi
